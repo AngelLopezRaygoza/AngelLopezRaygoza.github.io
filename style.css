@@ -1,0 +1,15 @@
+h1{
+    color: yellow;
+    background-color: blue;
+    border-width: 1px;
+    border-color: black;
+    border-style: double;
+    border-radius: 5px;
+    font-family: "Courier New", "monospace";
+}
+
+body{
+    background-color: black;
+}
+
+
