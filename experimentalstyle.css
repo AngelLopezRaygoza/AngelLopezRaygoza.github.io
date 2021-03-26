@@ -1,0 +1,31 @@
+.main-container {
+    width: 70vw;
+    margin: auto;
+    color: white;
+    padding: 5;
+    padding-left: 25;
+    padding-right: 25;
+    
+}
+
+.main-container {
+    background-color: black;
+    border-radius: 20px;
+}
+
+.post-1:hover {
+    background-color: aqua;
+}
+
+.post-2:hover {
+    background-color: blue;
+}
+
+.post-3:hover {
+    background-color: cornflowerblue;
+}
+
+
+body {
+     background-image: url("Pictures/more-leaves.png")
+}
